@@ -1,0 +1,23 @@
+{
+	"info": {
+		"_postman_id": "ccd2a549-5de2-47ba-8d4e-f2e8674ef33e",
+		"name": "Reqres",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24836245"
+	},
+	"item": [
+		{
+			"name": "Gestion des users",
+			"item": [
+				{
+					"name": "Get all Users Per existing page",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
